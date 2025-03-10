@@ -1,0 +1,57 @@
+.backgroud-1{
+    background-color: black;
+}
+*{padding: 0;
+    margin: 0;
+    box-sizing: none;}
+.head-1{
+    padding: 30px;
+    background-color:#202020;
+    width: 25vw;
+    border-radius: 20px;
+    gap: 20px;
+    height: 10vw;
+}
+.flex-1 li{
+    padding: 10px;
+}
+.flex-1 img{
+    padding-right: 5px;
+}
+.hel{
+    color: white;
+}
+.head-2{
+    width: 75vw;
+    background-color:#202020 ;
+    border-radius: 20px;
+    position: relative;
+    min-height: 65vh;
+}
+.your h2{
+    padding: 10px;
+}
+.ham{
+    filter: invert(1);
+    display: none;
+}
+
+.your img{width: 20px;
+height: auto;
+filter: none;
+background-color:#202020 ;
+ padding: 20px; }
+*{
+    color: white;
+}
+html, body {
+    overflow-x: hidden;
+}
+.card{
+    overflow-y: scroll;
+max-height: 90vh;
+}
+body {
+    max-height: 100vh;
+}
+
